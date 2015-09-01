@@ -1581,6 +1581,7 @@
 		font-weight: 400;
 		color: #483949;
 		line-height: 1.25em;
+		text-align: center;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1726,6 +1727,7 @@
 
 	footer {
 		margin: 2.5em 0 0 0;
+		text-align: center;
 	}
 
 /* Image */
