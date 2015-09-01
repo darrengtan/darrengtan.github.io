@@ -1657,6 +1657,10 @@
 		text-align: justify;
 	}
 
+	article {
+		text-align: center;
+	}
+
 	br.clear {
 		clear: both;
 	}
